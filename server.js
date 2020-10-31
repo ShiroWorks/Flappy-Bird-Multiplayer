@@ -9,7 +9,7 @@ let isGameTickerOn = false;
 let gameStateObj;
 let birds = {};
 let highScore = 0;
-let highScoreNickname = "anonymous panda";
+let highScoreNickname = "anonymous";
 let birdChannels = {};
 let obstacleTimer = 0;
 let topScoreChannel;
