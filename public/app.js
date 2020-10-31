@@ -40,7 +40,7 @@ let gameStarted = false;
 let gameTimerId;
 let myScore = 0;
 let highScore = 0;
-let highScoreNickname = 'anonymous panda';
+let highScoreNickname = 'anonymous';
 let myNickname;
 let myClientId;
 let myPublishChannel;
